@@ -6,11 +6,6 @@ question3 = "Is there more than one way to skin a cat? [Y/N]"
 question4 = "Does a bear shit in the woods? [Y/N]"
 question5 = "Is your guess as good as the guess of the most interesting man in the world? [Y/N]"
 
-response1 = ""
-response2 = ""
-response3 = ""
-response4 = ""
-response5 = ""
 
 #Set up Arrays to store questions, responses and answer key
 questionArray = [question1, question2, question3, question4, question5]
